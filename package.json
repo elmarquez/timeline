@@ -1,0 +1,16 @@
+{
+  "name": "timeline",
+  "version": "0.1.0",
+  "description": "Timeline visualizatin to support research work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davis Marqus <dmarq.ezz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "husky": "^4.3.0",
+    "jest": "^26.4.2"
+  }
+}
